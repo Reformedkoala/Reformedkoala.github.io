@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Hi! Welcome to my blog this is purely for fun and to keep track of some things that I'm working on. I'l also use it as well as to experiment with documentation and how I want to write about my projects.
